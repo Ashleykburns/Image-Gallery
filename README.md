@@ -1,2 +1,2 @@
 # Image-Gallery
-html/css/bootstrap
+generic with navbar. html/css/bootstrap
